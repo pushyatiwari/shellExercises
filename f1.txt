@@ -1,0 +1,8 @@
+# grep commands
+
+this is a grep command exercise, 
+but bit trying as an exercise
+
+hi there, it is a wonderful day
+
+i am very excited
